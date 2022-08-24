@@ -213,6 +213,8 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.179.246.243:8000/play/a010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 http://103.179.246.243:8000/play/a01u
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Sports",T sports
+https://tv.kotha.im/TSports_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Infotainment", Animal Planet HD
